@@ -1,2 +1,2 @@
-# Chromium-
+# Chromium
 Chromium builds for Windows
